@@ -1,0 +1,6 @@
+﻿l_english:
+ learn_language_ongoing.1200.t:0 "$learn_language$: Czworonożny problem"
+ learn_language_ongoing.1200.desc:0 "In my efforts to learn the [scheme.GetTargetCharacter.GetCulture.GetLanguage.GetNameNoTooltip] language, I keep plenty of notes since it tends to be too much to keep in my head. But now, when I need them, I can no longer find them! A quick search leaves me clueless as to their whereabouts.\n\nAs I turn around, I find myself looking down on [ROOT.Char.Custom('DogStoryName')], wagging [ROOT.Char.Custom('DogStoryHerHis')] tail and happy as a [ROOT.Char.Custom('GetAnimalType')]. It takes me a moment before I realize that [ROOT.Char.Custom('DogStorySheHe')] has got all of my notes firmly clenched between [ROOT.Char.Custom('DogStoryHerHis')] teeth..."
+ learn_language_ongoing.1200.a:0 "Nie [Select_CString(ROOT.Char.IsFemale, 'mogłabym', 'mógłbym' )] być na ciebie zł[Select_CString(ROOT.Char.IsFemale, 'a', 'y' )]!"
+ learn_language_ongoing.1200.b:0 "Chcesz iść na spacer? No to chodź."
+ learn_language_ongoing.1200.c:0 "To nie zabawka! #EMP Zły#! pies!"
