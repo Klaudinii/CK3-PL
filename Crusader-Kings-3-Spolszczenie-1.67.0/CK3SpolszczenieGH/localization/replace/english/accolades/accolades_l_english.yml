@@ -85,7 +85,7 @@
  ACCOLADE_HISTORY:0 "Historia wyróżnienia"
  SHOW_ACCOLADE_HISTORY:0 "Wyświetl historię wyróżnienia"
  ACCOLADE_HISTORY_ENTRY_DATE:0 "[Select_CString( AccoladeHistoryEntry.GetAcclaimedKnight.IsFemale, 'Została', 'Został' )] [Concept( 'acclaimed_knight', 'uznanym rycerzem' )|E] [AccoladeHistoryEntry.GetAcclaimedDate.GetString]"
- ACCOLADE_NO_SUCCESSOR_FOUND:0 "No suitable successor found in your court."
+ ACCOLADE_NO_SUCCESSOR_FOUND:0 "Nie znaleziono odpowiedniego następcy."
  ACCOLADE_SUCCESSOR_REQUIREMENT_HEADER:0 "[accolade_type|E]: [ACCOLADE.GetPrimaryType.GetName]"
  ACCOLADE_UNSUNG:0 "Unsung"
  ACCOLADE_ESTABLISHED:0 "Established"
