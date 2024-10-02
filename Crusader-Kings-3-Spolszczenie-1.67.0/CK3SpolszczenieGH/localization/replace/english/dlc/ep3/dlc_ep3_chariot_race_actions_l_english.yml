@@ -1,7 +1,7 @@
 ﻿l_english:
- apa_cheering_on_competitors_title:0 "[first.GetShortUIName|U] and [second.GetShortUIName|U] bonded over their favorite charioteers"
- apa_thunderous_applause_title:0 "[first.GetShortUIName|U], inspired by the crowd's thunderous applause, overtakes [second.GetShortUIName|U]"
- apa_celebrating_unexpected_overtake_title:0 "[first.GetShortUIName|U] overtakes [second.GetShortUIName|U]"
- apa_exchanging_race_commentary_title:0 "[first.GetShortUIName|U] and [second.GetShortUIName|U], make love, after being inspired by the heat of the races"
- apa_forging_alliances_title:0 "[apa_target.GetShortUIName|U] extends [apa_target.GetHerHis] political influence"
- apa_donates_to_the_poor_title:0 "[first.GetShortUIName|U] donates to the [Glossary( 'hoi polloi', 'HOI_POLLOI_GLOSS' )]"
+ apa_cheering_on_competitors_title:0 "[first.GetShortUIName|U] i [second.GetShortUIName|U] zbliżyli się do siebie, kibicując swoim ulubionym woźnicom"
+ apa_thunderous_applause_title:0 "[first.GetShortUIName|U], zainspirowany gromkimi brawami tłumu, wyprzedza [second.GetShortUIName|U]"
+ apa_celebrating_unexpected_overtake_title:0 "[first.GetShortUIName|U] wyprzedza [second.GetShortUIName|U]"
+ apa_exchanging_race_commentary_title:0 "[first.GetShortUIName|U] i [second.GetShortUIName|U] oddają się miłości, zainspirowani gorączką wyścigów"
+ apa_forging_alliances_title:0 "[apa_target.GetShortUIName|U] rozszerza swoje polityczne wpływy"
+ apa_donates_to_the_poor_title:0 "[first.GetShortUIName|U] przekazuje darowiznę dla pospólstwa"
