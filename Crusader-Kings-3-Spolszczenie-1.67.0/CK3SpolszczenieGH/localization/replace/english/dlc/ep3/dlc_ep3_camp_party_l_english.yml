@@ -1,7 +1,7 @@
 ﻿l_english:
- activity_camp_party:0 "Camp Revelry"
- activity_camp_party_desc:0 "Hold a small celebration at your camp, funded by [gold_i][gold|E] but modified by your stocks of [provisions_i][provisions|E]. Invitees will include everyone from the camp, plus optionally local rulers.\n\nCamp Parties provide an opportunity to befriend your followers, gain special [task_contracts|E], and manage [stress|E]."
- activity_camp_party_province_desc:0 "Select Barony"
+ activity_camp_party:0 "Impreza Obozowa"
+ activity_camp_party_desc:0 "Zorganizuj małą uroczystość w swoim obozie, finansowaną przez [gold_i][gold|E] ale zmodyfikowaną przez twoje zapasy [provisions_i][provisions|E]. Zaproszeni będą wszyscy z obozu oraz opcjonalnie lokalni władcy.\n\nImprezy Obozowe zapewniają możliwość zaprzyjaźnienia się z obserwującymi, zdobycia specjalnych [task_contracts|E], i zarządzać [stress|E]."
+ activity_camp_party_province_desc:0 "Wybierz Barona"
  activity_camp_party_host_desc:0 "$BULLET_WITH_TAB$May lose [stress_i][stress|E]\n$BULLET_WITH_TAB$May gain [provisions_i][provisions|E]\n$BULLET_WITH_TAB$May gain [skill|E] points\n$BULLET_WITH_TAB$May gain [task_contracts|E]\n$BULLET_WITH_TAB$May gain [artifacts|E]\n$BULLET_WITH_TAB$May recruit new [followers|E]"
  activity_camp_party_success:0 "Carousing"
  activity_camp_party_success_desc:0 "\n\nHow Carousing your [GetActivityType( 'activity_camp_party' ).GetName] has turned out to be so far.\n\nThe more Carousing you are, the better [activity|E] rewards you may receive."
