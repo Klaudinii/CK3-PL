@@ -104,7 +104,7 @@
  grand_ambitions.0190.a.tt:0 "Oferujesz pozycję [co_emperor|E] dla [secret_owner.GetShortUIName]"
  co_emperor_accepts:0 "#HIGH [secret_owner.GetSheHe|U] zgadza się#!"
  co_emperor_rejects:0 "#HIGH [secret_owner.GetSheHe|U] odmawia#!"
- grand_ambitions.0190.a.tt.1:0 "[emperor.GetShortUIName|U] wchodzi w [duumwirat|E] z [secret_owner.GetShortUIName] jako [CharYourHerHis( emperor )] [co_emperor|E]"
+ grand_ambitions.0190.a.tt.1:0 "[emperor.GetShortUIName|U] wchodzi w [duumvirate|E] z [secret_owner.GetShortUIName] jako [CharYourHerHis( emperor )] [co_emperor|E]"
  grand_ambitions.0190.a.tt.2:0 "Zaniechuje [secret_owner.GetHerHis] intryg"
  grand_ambitions.0190.b:0 "Niech [secret_owner.GetHerHim] zgnił w lochach!"
  every_family_member_of_secret_owner:0 "Każdy członek rodziny [secret_owner.GetTitledFirstName]"
