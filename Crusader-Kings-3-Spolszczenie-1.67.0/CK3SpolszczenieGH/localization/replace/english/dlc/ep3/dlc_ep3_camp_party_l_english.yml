@@ -102,46 +102,46 @@
  ep3_camp_party.1005.c:0 "Usiądziemy i poczekamy"
  ep3_camp_party.1005.c.success:0 "[wanderer.GetFirstNameNoTooltip] odnajduje [wanderer.GetHerHis] rogę powrotną"
  ep3_camp_party.1005.c.failure:0 "[wanderer.GetFirstNameNoTooltip] pojawia się ponownie, ranny"
- ep3_camp_party.1005.c.critfailure:0 "[wanderer.GetFirstNameNoTooltip] proves to be truly lost"
- ep3_camp_party.1006.t:0 "Unexpected Guests"
- ep3_camp_party.1006.desc:0 "No sooner had we sat [wanderer.GetFirstName] down than a rustling in the bushes betrays the presence of another. I leap to my feet, but as the light sharpens the figure heading towards us, it is clear [newcomer.GetSheHe] means no harm.\n\n"Please," [newcomer.GetSheHe] begins, "I am not here to cause trouble. I'm just a traveling healer, paying my way through medicine."\n\n"I caught sight of the smoke trails. I would be indebted if I could stay a while and join your revelries; here, have some food for the inconvenience.""
- ep3_camp_party.1006.a:0 ""Perhaps you would like to stay #EMP permanently#!?""
- ep3_camp_party.1006.b:0 ""Come, sit! Teach me your medical ways!""
- ep3_camp_party.1010.t:0 "Test Your Wits"
- ep3_camp_party.1010.desc:0 "[riddler.GetFirstNamePossessive] sly smile over the rim of [riddler.GetHerHis] cup bodes poorly, I suspect.\n\n"Come on then, [ROOT.Char.GetFirstNameNoTooltip]. Let's see if your mind is still sharp after all these days on the road!" [riddler.GetSheHe|U] gestures the cup with a flourish. "A riddle, perhaps?" Without waiting for me to acquiesce, [riddler.GetSheHe] begins."
- ep3_camp_party.1010.desc_riddle_01:0 "\n\n#EMP "Ripped from my mother’s womb,\nBeaten and burned,\nI become a blood thirsty killer."
- ep3_camp_party.1010.desc_riddle_02:0 "\n\n#EMP "I am sometimes yellow and sometimes white,\nHalf of me is dark and the other is light.#!"
- ep3_camp_party.1010.desc_riddle_03:0 "\n\n#EMP "I have four legs,\nyet I cannot walk.#!"
- ep3_camp_party.1010.desc_riddle_04:0 "\n\n#EMP "I have one eye,\nyet I cannot see.#!"
- ep3_camp_party.1010.desc_riddle_05:0 "\n\n#EMP "I am a 'room,\nbut I lack doors and windows.#!"
- ep3_camp_party.1010.desc_riddle_06:0 "\n\n#EMP "I can be caught,\nbut I can not be thrown.#!"
- ep3_camp_party.1010.desc_riddle_07:0 "\n\n#EMP "Poor folks have me,\nRich folks need me,\nIf you eat me, you perish.#!"
- ep3_camp_party.1010.desc_riddle_08:0 "\n\n#EMP "I am easy to get into,\nbut hard to get out of.#!"
- ep3_camp_party.1010.desc_outro:0 "\nWhat am I?"#!"
- ep3_camp_party.1010.a:0 ""Easy. The answer is '[ROOT.Char.Custom('GetCampPartyRiddleAnswer')]'.""
- ep3_camp_party.1010.b:0 "Perhaps the answer is..."
- ep3_camp_party.1010.b.success:0 "You guess correctly"
- ep3_camp_party.1010.b.success.title:0 "The correct answer was '[ROOT.Char.Custom('GetCampPartyRiddleAnswer')]'."
- ep3_camp_party.1010.b.failure:0 "Your guess is wrong"
- ep3_camp_party.1010.c:0 ""Oh [riddler.GetFirstNameNoTooltip], your puzzles are far too wily for me!""
- ep3_camp_party.1010.c.tt:0 "No matter the truth, it's probably best for harmony if I pretend they are..."
- ep3_camp_party.1010.answer_riddle_01:0 "iron"
- ep3_camp_party.1010.answer_riddle_02:0 "the moon"
- ep3_camp_party.1010.answer_riddle_03:0 "a table"
- ep3_camp_party.1010.answer_riddle_04:0 "a needle"
- ep3_camp_party.1010.answer_riddle_05:0 "a mushroom"
- ep3_camp_party.1010.answer_riddle_06:0 "a disease"
- ep3_camp_party.1010.answer_riddle_07:0 "nothing"
- ep3_camp_party.1010.answer_riddle_08:0 "trouble"
- ep3_camp_party.1015.t:0 "Ready Your Bowstrings"
- ep3_camp_party.1015.desc:0 "No sooner had I stood up to get more refreshments than [archer.GetFirstName] bounds upright too.\n\n"I think we could all do with a little bit of #EMP friendly competition!#!" [archer.GetSheHe|U] begins, bow in hand. "Perhaps a light archery contest? I've a bow for you right here, [ROOT.Char.GetFirstNameNoTooltip]..."\n\nMy drink may have to wait."
- ep3_camp_party.1015.a:0 ""Let's make this interesting, shall we? Fetch two apples.""
- ep3_camp_party.1015.a.tt:0 "[apple_holder.GetFirstNameNoTooltip] will do perfectly as a stand for them."
- ep3_camp_party.1015.a.success:0 "Your shot hits the apple"
- ep3_camp_party.1015.a.failure:0 "Your shot misses, and [archer.GetFirstNamePossessiveNoTooltip] hits"
- ep3_camp_party.1015.a.critfailure:0 "[archer.GetFirstNameNoTooltip] misses, but your miss proves far worse..."
- ep3_camp_party.1015.b:0 ""Why don't we hunt for it? First kill wins.""
- ep3_camp_party.1015.b.success:0 "You claim the first kill"
+ ep3_camp_party.1005.c.critfailure:0 "[wanderer.GetFirstNameNoTooltip] okazuje się być naprawdę zagubiony"
+ ep3_camp_party.1006.t:0 "Niespodziewani Goście"
+ ep3_camp_party.1006.desc:0 "Ledwie zdążyliśmy posadzić [wanderer.GetFirstName], gdy szelest w krzakach zdradził obecność kogoś innego. Zerwałem się na nogi, ale gdy postać zbliżyła się na tyle, by światło ją oświetliło, stało się jasne, że [newcomer.GetSheHe] nie ma złych zamiarów.\n\n„Proszę,” [newcomer.GetSheHe], „nie chcę sprawiać kłopotów. Jestem wędrownym uzdrowicielem, zarabiającym na życie medycyną.”\n\n„Zauważyłem smugi dymu. Byłbym wdzięczny, gdybym mógł zatrzymać się na chwilę i dołączyć do waszej zabawy; oto trochę jedzenia w ramach rekompensaty za niedogodność.”"
+ ep3_camp_party.1006.a:0 "„Może chciałbyś zostać #EMP na stałe#!?”"
+ ep3_camp_party.1006.b:0 "„Chodź, usiądź! Naucz mnie swoich medycznych sztuczek!”"
+ ep3_camp_party.1010.t:0 "Sprawdź Swoje Umiejętności"
+ ep3_camp_party.1010.desc:0 "[riddler.GetFirstNamePossessive] chytry uśmiech ponad brzegiem [riddler.GetHerHis] kubka zapowiada coś złego, jak sądzę.\n\n„No to dawaj, [ROOT.Char.GetFirstNameNoTooltip]. Zobaczymy, czy twój umysł wciąż jest ostry po tych wszystkich dniach w drodze!” [riddler.GetSheHe|U] gestykuluje kubkiem z rozmachem. „Zagadka, może?” Bez czekania na moją zgodę, [riddler.GetSheHe] zaczyna."
+ ep3_camp_party.1010.desc_riddle_01:0 "\n\n#EMP „Wydarta z łona mojej matki,\nBita i palona,\nStaję się krwiożerczym zabójcą.”
+ ep3_camp_party.1010.desc_riddle_02:0 "\n\n#EMP „Czasami jestem żółty, a czasami biały,\nPołowa mnie jest ciemna, a druga jasna.#!"
+ ep3_camp_party.1010.desc_riddle_03:0 "\n\n#EMP „Mam cztery nogi,\nale nie mogę chodzić.#!"
+ ep3_camp_party.1010.desc_riddle_04:0 "\n\n#EMP „Mam jedno oko,\nlecz nie mogę widzieć.#!"
+ ep3_camp_party.1010.desc_riddle_05:0 "\n\n#EMP „Jestem pokój,\nlecz brakuje mi drzwi i okien.#!"
+ ep3_camp_party.1010.desc_riddle_06:0 "\n\n#EMP „Mogę być złapany,\nlecz nie mogę być rzucony.#!"
+ ep3_camp_party.1010.desc_riddle_07:0 "\n\n#EMP „Biedni ludzie mnie mają,\nBogaci ludzie mnie potrzebują,\nJeśli mnie zjesz, giniesz.#!"
+ ep3_camp_party.1010.desc_riddle_08:0 "\n\n#EMP „Łatwo się we mnie wchodzi,\nlecz trudno wyjść.#!"
+ ep3_camp_party.1010.desc_outro:0 "\nCzym jestem!?"#!"
+ ep3_camp_party.1010.a:0 ""Łatwe. Odpowiedzią jest '[ROOT.Char.Custom('GetCampPartyRiddleAnswer')]'.""
+ ep3_camp_party.1010.b:0 "Być może odpowiedzią jest..."
+ ep3_camp_party.1010.b.success:0 "Zgadujesz poprawnie."
+ ep3_camp_party.1010.b.success.title:0 „Poprawną odpowiedzią było '[ROOT.Char.Custom('GetCampPartyRiddleAnswer')]'.”
+ ep3_camp_party.1010.b.failure:0 „Twoje przypuszczenie jest błędne.”
+ ep3_camp_party.1010.c:0 „Och [riddler.GetFirstNameNoTooltip], twoje zagadki są dla mnie zbyt przebiegłe!”
+ ep3_camp_party.1010.c.tt:0 „Bez względu na prawdę, prawdopodobnie lepiej dla harmonii, jeśli udam, że są...”
+ ep3_camp_party.1010.answer_riddle_01:0 „żelazo”
+ ep3_camp_party.1010.answer_riddle_02:0 „księżyc”
+ ep3_camp_party.1010.answer_riddle_03:0 „stół”
+ ep3_camp_party.1010.answer_riddle_04:0 „igła”
+ ep3_camp_party.1010.answer_riddle_05:0 „grzyb”
+ ep3_camp_party.1010.answer_riddle_06:0 „choroba”
+ ep3_camp_party.1010.answer_riddle_07:0 „nic”
+ ep3_camp_party.1010.answer_riddle_08:0 „kłopoty”
+ ep3_camp_party.1015.t:0 „Naciągnijcie cięciwy”
+ ep3_camp_party.1015.desc:0 „Ledwo wstałem, aby przynieść więcej napojów, gdy [archer.GetFirstName] również podskakuje do góry.\n\n„Myślę, że wszyscy moglibyśmy spróbować trochę #EMP przyjaznej rywalizacji#!” - zaczyna [archer.GetSheHe|U], trzymając łuk w ręku. „Może lekki konkurs strzelecki? Mam dla ciebie łuk właśnie tutaj, [ROOT.Char.GetFirstNameNoTooltip]...”\n\nMój napój musi poczekać.”
+ ep3_camp_party.1015.a:0 „„Zróbmy to interesujące, co? Przynieś dwa jabłka.””
+ ep3_camp_party.1015.a.tt:0 "[apple_holder.GetFirstNameNoTooltip] będzie idealnie pasować jako podstawa dla nich."
+ ep3_camp_party.1015.a.success:0 "Twój strzał trafia w jabłko"
+ ep3_camp_party.1015.a.failure:0 "Twój strzał mija cel, a [archer.GetFirstNamePossessiveNoTooltip] trafia"
+ ep3_camp_party.1015.a.critfailure:0 "[archer.GetFirstNameNoTooltip] chybia, ale twój nietrafiony strzał okazuje się znacznie gorszy..."
+ ep3_camp_party.1015.b:0 ""Dlaczego nie poszukamy tego? Kto pierwszy zabije, ten wygrywa.""
+ ep3_camp_party.1015.b.success:0 "Zgłaszasz pierwszy zabity cel."
  ep3_camp_party.1015.b.failure:0 "[archer.GetFirstNameNoTooltip] claims the first kill"
  ep3_camp_party.1015.b.critfailure:0 "[archer.GetFirstNameNoTooltip] accidentally hits you with [archer.GetHerHis] shot"
  ep3_camp_party.1015.c:0 ""Come then, you choose the target!""
